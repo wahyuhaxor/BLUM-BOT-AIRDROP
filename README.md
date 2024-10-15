@@ -6,4 +6,6 @@ $ pkg install nodejs<br>
 $ npm i <br>
 $ nano .env <br>
 $ npm start <br>
-saatnya party
+tutorial vidionya<br>
+https://youtu.be/gRtYRpsEX4w?si=zvyJyEwJvBcmwe1K<br>
+SAATNYA PARTYY!!
